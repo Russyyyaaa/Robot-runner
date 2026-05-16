@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84faccc17bf164bd1abd9a4436c8d8da, type: 3}
+  m_Name: SectionDifficultyProfile
+  m_EditorClassIdentifier: 
+  _middleThresholdScore: 150
+  _hardThresholdScore: 400
+  _veryHardThresholdScore: 900
+  _boosterIntervalSections: 6

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb003844ed8ddc2d637bdb6b36d79e1, type: 3}
+  m_Name: GameBalanceConfig
+  m_EditorClassIdentifier: 
+  _laneCount: 3
+  _startLaneIndex: 1
+  _laneOffset: 1.7
+  _laneChangeDuration: 0.2
+  _baseForwardSpeed: 7
+  _boosterSpeedBonus: 3
+  _boosterDurationSeconds: 4
+  _maxBatteryCharge: 100
+  _startBatteryCharge: 100
+  _batteryDrainPerSecond: 8
+  _batteryRestoreAmount: 25
+  _trapDamageAmount: 20
+  _scorePerDistanceUnit: 1
